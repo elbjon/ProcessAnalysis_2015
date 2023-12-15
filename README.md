@@ -1,5 +1,5 @@
 # ProcessAnalysis_2015
-Process Analysis -> Picklist
+Process Analysis for Project 'Picklist'
 
 Processanalysis preceding my [Picklist](https://github.com/elbjon/PICKLIST) programming
 
